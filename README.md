@@ -2,8 +2,7 @@
 First Video Game Project (more like an introduction to video game development
 
 <p align="center">
-  <h1>Salut</h1>
-  <img src="[http://some_place.com/image.png](https://user-images.githubusercontent.com/93186642/226018315-fde0a0b0-0a83-44ae-9eaa-7a4a6f82dcc2.png)" />
+    <img src="https://user-images.githubusercontent.com/93186642/226019887-580859b1-26ac-4d8b-a9aa-b90e65f8d4bb.png">
 </p>
 
 ## Playable now !
