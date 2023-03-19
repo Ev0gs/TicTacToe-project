@@ -1,4 +1,4 @@
-# TicTacToe-project
+# Unity-TicTacToe
 First Video Game Project (more like an introduction to video game development
 
 <p align="center">
